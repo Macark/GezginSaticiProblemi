@@ -1,0 +1,52 @@
+body{
+	
+    background-color: #87CEEB;
+}
+#cnvs{
+
+	width: 400px;
+	background: white;
+	border: 5px solid rgb(0, 0, 0);
+}
+
+#baslangic{
+	background-color: rgb(6, 6, 90);
+
+	width: 13em;
+	height: 2em;
+	color: white;
+	border-radius: 10px;
+	cursor: pointer;
+}
+#sehirler{
+	background-color: red;
+	width: 13em;
+	height: 2em;
+	color: white;
+	border-radius: 10px;
+	float: left;
+	cursor: pointer;
+}
+
+#containerTum{
+	margin-left: auto;
+    margin-right: auto;
+    width: 26em;
+}
+h1{
+	text-align: center;
+}
+
+#butonlar{
+	margin-left: auto;
+    margin-right: auto;
+	width: 22em;
+	text-align: left;
+
+}
+.yazi{
+	
+	  position: absolute;
+      right: 200px;
+      top: 200px;
+}
